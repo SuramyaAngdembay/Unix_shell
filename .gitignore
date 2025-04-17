@@ -1,0 +1,9 @@
+# Ignore compiled binary files
+/bin/
+*.out
+*.o
+*.exe
+
+# Ignore Makefile-generated files (if any)
+*.dep
+

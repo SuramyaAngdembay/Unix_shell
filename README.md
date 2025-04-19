@@ -90,14 +90,8 @@ The full LaTeX report is provided in `unix_shell_report.tex`, including implemen
 
 ---
 
-## 📷 Screenshots
-
-See the `Screenshots/` folder or the report for examples of input/output redirection, piping, and background execution in action.
-
----
-
 ## 🧑‍💻 Author
 
 **Suramya Angdembay**  
 University of Southern Mississippi  
-CSC 306 — Operating Systems
+

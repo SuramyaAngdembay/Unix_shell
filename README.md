@@ -13,7 +13,6 @@ Unix_shell/
 │   └── osh                # Compiled binary (after make)
 ├── unix_shell_report.tex  # Project report in LaTeX
 ├── Makefile               # Build instructions
-├── Screenshots/           # Execution output for documentation
 ```
 
 ---

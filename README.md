@@ -1,4 +1,4 @@
-# 🐚 Unix Shell (`osh`)
+## Unix Shell (`osh`)
 A simple Unix-like shell written in C for educational purposes. This project replicates essential shell features such as command execution, input/output redirection, piping, background processes, and command history.
 
 ---
@@ -18,7 +18,7 @@ Unix_shell/
 
 ---
 
-## ⚙️ How to Compile
+## How to Compile
 
 1. Clone the repository:
 ```bash
@@ -35,7 +35,7 @@ The compiled shell binary will be located in `bin/osh`.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 ./bin/osh
@@ -48,7 +48,7 @@ osh>
 
 ---
 
-## 🧰 Features Implemented
+## Features Implemented
 
 - ✅ Command execution (`ls`, `cat`, `echo`, etc.)
 - ✅ Built-in commands: `cd`, `exit`
@@ -59,7 +59,7 @@ osh>
 
 ---
 
-## 🧪 Example Commands
+## Example Commands
 
 ```bash
 osh> ls -l
@@ -74,7 +74,7 @@ osh> exit
 
 ---
 
-## 📘 Notes
+## Notes
 
 - Only one redirection (`<` or `>`) is supported per command.
 - Only a single pipe (`|`) is supported per command line.
@@ -84,14 +84,7 @@ osh> exit
 
 ---
 
-## 📄 Report
+## Report
 
 The full LaTeX report is provided in `unix_shell_report.tex`, including implementation details, pseudocode, analysis, and screenshots demonstrating functionality.
-
----
-
-## 🧑‍💻 Author
-
-**Suramya Angdembay**  
-University of Southern Mississippi  
 
